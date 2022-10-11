@@ -1,10 +1,8 @@
 
 #### Meta-analysis 2022 ####
 
-setwd("~/PhD work/meta-analysis/Code")
 
 # Load packages
-
 
 
 library(metafor)
